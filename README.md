@@ -1,6 +1,6 @@
 👋 Hey, I’m **Shilish**
 
-Most of my work is private ^_^
+Most of my work is closed source/private ^_^
 
 Find some of my socials here
 
