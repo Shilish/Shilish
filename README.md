@@ -36,8 +36,7 @@ https://shilish.github.io/Shilish/ -->
 
 <!-- [<img align="left" alt="" width="40" height="40" src="" />][rr] -->
 
-<br />
-<br>
+---
 
 [![my GitHub stats](https://readme-stats-acc.vercel.app/api?username=shilish)][rr]
 
