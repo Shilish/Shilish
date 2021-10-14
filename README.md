@@ -12,12 +12,16 @@ https://shilish.github.io/Shilish/ -->
 
 - Most of my work is closed-source/private `¯\_(ツ)_/¯`
 
-### Find me at:
+### Find me on:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][mail]
+\
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)][steam]
+\
 [![Discord](https://img.shields.io/badge/%C9%85%E1%91%95%E1%91%95IO-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)][discord]
+\
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)][twitter]
+\
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)][reddit]
 
 ### Languages, Libraries & Tools:
@@ -35,8 +39,8 @@ https://shilish.github.io/Shilish/ -->
 
 <!-- [<img align="left" alt="" width="40" height="40" src="" />][rr] -->
 
-<br>
 <br />
+<br>
 
 [![my GitHub stats](https://readme-stats-acc.vercel.app/api?username=shilish)][rr]
 
