@@ -44,6 +44,10 @@ https://shilish.github.io/Shilish/ -->
 
 [![TopLangs](https://readme-stats-acc.vercel.app/api/top-langs/?username=shilish&layout=compact&hide_border=true&custom_title=Most+Used+Languages+📊&title_color=ff4d73&bg_color=2C2F33&icon_color=5865F2&text_color=c2fffc)][rr]
 
+---
+
+#### Top Repositories
+
 [![PinnedCard](https://readme-stats-acc.vercel.app/api/pin/?username=shilish&repo=Mr.Crown&hide_border=true&show_owner=true&title_color=ff4d73&bg_color=2C2F33&icon_color=5865F2&text_color=c2fffc)](https://github.com/Shilish/Mr.Crown)
 
 [site]: https://shilish.github.io/Shilish/
