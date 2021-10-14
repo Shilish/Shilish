@@ -8,8 +8,9 @@ https://shilish.github.io/Shilish/ -->
 
 ### 👋 Hey there, I'm **Shilish** - aka [ɅᑕᑕIO][site]
 
-## I'm a Student, Developer, and Music lover!!!
+## About me
 
+- I'm a Student, Developer, and Music lover
 - Most of my work is closed-source/private `¯\_(ツ)_/¯`
 
 ### Find me on:
