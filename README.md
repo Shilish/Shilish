@@ -24,7 +24,8 @@ https://shilish.github.io/Shilish/ -->
 
 ### Languages, Libraries & Tools:
 
-> [<img align="left" alt="vsc" width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][rr] > [<img align="left" alt="C" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />][rr]
+> [<img align="left" alt="vsc" width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][rr]
+> [<img align="left" alt="C" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />][rr]
 > [<img align="left" alt="ts" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />][rr]
 > [<img align="left" alt="js" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />][rr]
 > [<img align="left" alt="djs" width="30" height="30" src="https://discordjs.guide/meta-image.png" />][rr]
@@ -39,7 +40,7 @@ https://shilish.github.io/Shilish/ -->
 <br />
 <br />
 
-[![Anurag's GitHub stats](https://readme-stats-acc.vercel.app/api?username=shilish)][rr]
+[![my GitHub stats](https://readme-stats-acc.vercel.app/api?username=shilish)][rr]
 
 [site]: https://shilish.github.io/Shilish/
 [github]: https://github.com/Shilish
