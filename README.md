@@ -57,7 +57,7 @@ https://shilish.github.io/Shilish/ -->
 #### Top Repositories
 
 <a href="https://github.com/Shilish/Mr.Crown">
-  <img align="center" src="https://readme-stats-acc.vercel.app/api/pin/?username=shilish&repo=Mr.Crown&hide_border=true&show_owner=true&title_color=ff4d73&bg_color=2C2F33&icon_color=5865F2&text_color=e8e8e8" />
+  <img align="center" src="https://readme-stats-acc.vercel.app/api/pin/?username=shilish&repo=Mr.Crown&hide_border=true&show_owner=true&title_color=1793ff&bg_color=2C2F33&icon_color=5865F2&text_color=e8e8e8" />
 </a>
 
 <!-- [![PinnedCard](https://readme-stats-acc.vercel.app/api/pin/?username=shilish&repo=Mr.Crown&hide_border=true&show_owner=true&title_color=ff4d73&bg_color=2C2F33&icon_color=5865F2&text_color=c2fffc)](https://github.com/Shilish/Mr.Crown) -->
