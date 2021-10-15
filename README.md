@@ -62,6 +62,14 @@ https://shilish.github.io/Shilish/ -->
 
 <!-- [![PinnedCard](https://readme-stats-acc.vercel.app/api/pin/?username=shilish&repo=Mr.Crown&hide_border=true&show_owner=true&title_color=ff4d73&bg_color=2C2F33&icon_color=5865F2&text_color=c2fffc)](https://github.com/Shilish/Mr.Crown) -->
 
+<details>
+<summary>=> My Recent Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
 [site]: https://shilish.github.io/Shilish/
 [github]: https://github.com/Shilish
 [mail]: mailto:shilishvatsin@gmail.com
