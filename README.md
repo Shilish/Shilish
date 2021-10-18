@@ -74,11 +74,11 @@ https://shilish.github.io/Shilish/ -->
 <summary> My Recent Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#245](https://github.com/shahednasser/awesome-resources/pull/245) in [shahednasser/awesome-resources](https://github.com/shahednasser/awesome-resources)
-2. 🎉 Merged PR [#16](https://github.com/Shilish/Mr.Crown/pull/16) in [Shilish/Mr.Crown](https://github.com/Shilish/Mr.Crown)
-3. 💪 Opened PR [#16](https://github.com/Shilish/Mr.Crown/pull/16) in [Shilish/Mr.Crown](https://github.com/Shilish/Mr.Crown)
-4. 🗣 Commented on [#15](https://github.com/Shilish/Mr.Crown/issues/15) in [Shilish/Mr.Crown](https://github.com/Shilish/Mr.Crown)
-5. ❌ Closed PR [#15](https://github.com/Shilish/Mr.Crown/pull/15) in [Shilish/Mr.Crown](https://github.com/Shilish/Mr.Crown)
+1. 🎉 Merged PR [#17](https://github.com/Shilish/Mr.Crown/pull/17) in [Shilish/Mr.Crown](https://github.com/Shilish/Mr.Crown)
+2. ❌ Reopened PR [#17](https://github.com/Shilish/Mr.Crown/pull/17) in [Shilish/Mr.Crown](https://github.com/Shilish/Mr.Crown)
+3. ❌ Closed PR [#17](https://github.com/Shilish/Mr.Crown/pull/17) in [Shilish/Mr.Crown](https://github.com/Shilish/Mr.Crown)
+4. 💪 Opened PR [#17](https://github.com/Shilish/Mr.Crown/pull/17) in [Shilish/Mr.Crown](https://github.com/Shilish/Mr.Crown)
+5. 💪 Opened PR [#245](https://github.com/shahednasser/awesome-resources/pull/245) in [shahednasser/awesome-resources](https://github.com/shahednasser/awesome-resources)
 <!--END_SECTION:activity-->
 
 </details>
