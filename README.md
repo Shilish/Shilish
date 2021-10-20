@@ -46,7 +46,6 @@ https://shilish.github.io/Shilish/ -->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img align="center" src="https://readme-stats-acc.vercel.app/api?username=shilish&hide=issues,contribs&count_private=true&show_icons=true&include_all_commits=true&custom_title=ɅᑕᑕIO's+GitHub+Stats+👨‍💻&border_color=e8e8e8&border_radius=25&title_color=ff4d73&bg_color=2C2F33&icon_color=5865F2&text_color=e8e8e8" />
 </a>
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img align="center" src="https://readme-stats-acc.vercel.app/api/top-langs/?username=shilish&layout=compact&border_color=e8e8e8&border_radius=25&custom_title=Most+Used+Languages+📊&title_color=ff4d73&bg_color=2C2F33&icon_color=5865F2&text_color=e8e8e8" />
 </a>
