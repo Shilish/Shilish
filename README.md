@@ -27,15 +27,16 @@ https://shilish.github.io/Shilish/ -->
 
 ### Languages, Libraries & Tools :
 
-[<img align="left" alt="vsc" width="25" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][rr]
-[<img align="left" alt="C" width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />][rr]
-[<img align="left" alt="js" width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />][rr]
-[<img align="left" alt="ts" width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />][rr]
-[<img align="left" alt="djs" width="25" height="25" src="https://discordjs.guide/meta-image.png" />][rr]
-[<img align="left" alt="nodejs" width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />][rr]
-[<img align="left" alt="mongo" width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />][rr]
-[<img align="left" alt="heroku" width="25" height="25" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />][rr]
-[<img align="left" alt="github" width="25" height="25" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][rr]
+[<img align="left" alt="vsc" width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][rr]
+[<img align="left" alt="C" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />][rr]
+[<img align="left" alt="js" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />][rr]
+[<img align="left" alt="ts" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />][rr]
+[<img align="left" alt="djs" width="30" height="30" src="https://discordjs.guide/meta-image.png" />][rr]
+[<img align="left" alt="nodejs" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />][rr]
+[<img align="left" alt="mongo" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />][rr]
+[<img align="left" alt="heroku" width="30" height="30" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />][rr]
+[<img align="left" alt="github" width="30" height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][rr]
+[<img align="left" alt="terminal" width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][rr]
 
 <!-- [<img align="left" alt="" width="40" height="40" src="" />][rr] c2fffc//90f3f5//73fdff//03f8fc-->
 <br>
@@ -46,6 +47,7 @@ https://shilish.github.io/Shilish/ -->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img align="center" src="https://readme-stats-acc.vercel.app/api?username=shilish&hide=issues,contribs&count_private=true&show_icons=true&include_all_commits=true&custom_title=ɅᑕᑕIO's+GitHub+Stats+👨‍💻&border_color=e8e8e8&border_radius=25&title_color=ff4d73&bg_color=2C2F33&icon_color=5865F2&text_color=e8e8e8" />
 </a>
+
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img align="center" src="https://readme-stats-acc.vercel.app/api/top-langs/?username=shilish&layout=compact&border_color=e8e8e8&border_radius=25&custom_title=Most+Used+Languages+📊&title_color=ff4d73&bg_color=2C2F33&icon_color=5865F2&text_color=e8e8e8" />
 </a>
@@ -72,11 +74,6 @@ https://shilish.github.io/Shilish/ -->
 <summary> My Recent Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/Shilish/Mr.Crown/pull/18) in [Shilish/Mr.Crown](https://github.com/Shilish/Mr.Crown)
-2. 💪 Opened PR [#18](https://github.com/Shilish/Mr.Crown/pull/18) in [Shilish/Mr.Crown](https://github.com/Shilish/Mr.Crown)
-3. 🎉 Merged PR [#17](https://github.com/Shilish/Mr.Crown/pull/17) in [Shilish/Mr.Crown](https://github.com/Shilish/Mr.Crown)
-4. ❌ Reopened PR [#17](https://github.com/Shilish/Mr.Crown/pull/17) in [Shilish/Mr.Crown](https://github.com/Shilish/Mr.Crown)
-5. ❌ Closed PR [#17](https://github.com/Shilish/Mr.Crown/pull/17) in [Shilish/Mr.Crown](https://github.com/Shilish/Mr.Crown)
 <!--END_SECTION:activity-->
 
 </details>
