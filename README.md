@@ -43,13 +43,28 @@ https://shilish.github.io/Shilish/ -->
 
 ---
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+      <img align="center" style="padding=0;" src="https://readme-stats-acc.vercel.app/api?username=shilish&hide=issues,contribs&count_private=true&show_icons=true&include_all_commits=true&custom_title=ɅᑕᑕIO's+GitHub+Stats+👨‍💻&border_color=e8e8e8&border_radius=25&hide_border=true&title_color=ff4d73&bg_color=00000000&icon_color=5865F2&text_color=9f9f9f" />
+      </a>
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+      <img align="center" style="padding=0;" src="https://readme-stats-acc.vercel.app/api/top-langs/?username=shilish&layout=compact&border_color=e8e8e8&border_radius=25&hide_border=true&custom_title=Most+Used+Languages+📊&title_color=ff4d73&bg_color=00000000&icon_color=5865F2&text_color=9f9f9f" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img align="center" src="https://readme-stats-acc.vercel.app/api?username=shilish&hide=issues,contribs&count_private=true&show_icons=true&include_all_commits=true&custom_title=ɅᑕᑕIO's+GitHub+Stats+👨‍💻&border_color=e8e8e8&border_radius=25&title_color=ff4d73&bg_color=2C2F33&icon_color=5865F2&text_color=e8e8e8" />
 </a>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img align="center" src="https://readme-stats-acc.vercel.app/api/top-langs/?username=shilish&layout=compact&border_color=e8e8e8&border_radius=25&custom_title=Most+Used+Languages+📊&title_color=ff4d73&bg_color=2C2F33&icon_color=5865F2&text_color=e8e8e8" />
-</a>
+</a> -->
 
 <!-- [![MyGithubStats](https://readme-stats-acc.vercel.app/api?username=shilish&hide=issues,contribs&count_private=true&show_icons=true&include_all_commits=true&custom_title=ɅᑕᑕIO's+GitHub+Stats+👨‍💻&hide_border=true&title_color=ff4d73&bg_color=2C2F33&icon_color=5865F2&text_color=c2fffc)][rr]
 
@@ -60,7 +75,7 @@ https://shilish.github.io/Shilish/ -->
 #### Top Repositories
 
 <a href="https://github.com/Shilish/Mr.Crown">
-  <img align="center" src="https://readme-stats-acc.vercel.app/api/pin/?username=shilish&repo=Mr.Crown&hide_border=true&show_owner=true&title_color=1793ff&bg_color=2C2F33&icon_color=5865F2&text_color=e8e8e8" />
+  <img align="center" src="https://readme-stats-acc.vercel.app/api/pin/?username=shilish&repo=Mr.Crown&show_owner=true&title_color=1793ff&bg_color=00000000&icon_color=5865F2&text_color=9f9f9f&border_color=9f9f9f" />
 </a>
 
 <!-- [![PinnedCard](https://readme-stats-acc.vercel.app/api/pin/?username=shilish&repo=Mr.Crown&hide_border=true&show_owner=true&title_color=ff4d73&bg_color=2C2F33&icon_color=5865F2&text_color=c2fffc)](https://github.com/Shilish/Mr.Crown) -->
