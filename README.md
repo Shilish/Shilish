@@ -6,7 +6,7 @@ Find some of my socials here
 
 https://shilish.github.io/Shilish/ -->
 
-[<img align="centre" alt="accio" src="https://cdn.discordapp.com/attachments/561917883958034444/898745223046369321/IO.png" />][rr]
+[<img align="centre" alt="accio" src="https://media.discordapp.net/attachments/561917883958034444/898745223046369321/IO.png?ex=66aae5b7&is=66a99437&hm=d6427034a4d170ba4180c49730ad56cdb204b6b212645e3886d66261ac0baf86&=&format=webp&quality=lossless&width=1594&height=897" />][rr]
 
 ### 👋 Hey there, I'm **Shilish**
 
